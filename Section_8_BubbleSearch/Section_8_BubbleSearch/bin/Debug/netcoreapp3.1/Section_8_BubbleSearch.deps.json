@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Section_8_BubbleSearch/1.0.0": {
+        "runtime": {
+          "Section_8_BubbleSearch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Section_8_BubbleSearch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

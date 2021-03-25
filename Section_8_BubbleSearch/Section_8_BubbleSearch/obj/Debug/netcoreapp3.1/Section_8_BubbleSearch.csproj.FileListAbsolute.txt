@@ -1,0 +1,13 @@
+C:\Lucas\FSD training\C# Projects\Section_8_BubbleSearch\Section_8_BubbleSearch\bin\Debug\netcoreapp3.1\Section_8_BubbleSearch.exe
+C:\Lucas\FSD training\C# Projects\Section_8_BubbleSearch\Section_8_BubbleSearch\bin\Debug\netcoreapp3.1\Section_8_BubbleSearch.deps.json
+C:\Lucas\FSD training\C# Projects\Section_8_BubbleSearch\Section_8_BubbleSearch\bin\Debug\netcoreapp3.1\Section_8_BubbleSearch.runtimeconfig.json
+C:\Lucas\FSD training\C# Projects\Section_8_BubbleSearch\Section_8_BubbleSearch\bin\Debug\netcoreapp3.1\Section_8_BubbleSearch.runtimeconfig.dev.json
+C:\Lucas\FSD training\C# Projects\Section_8_BubbleSearch\Section_8_BubbleSearch\bin\Debug\netcoreapp3.1\Section_8_BubbleSearch.dll
+C:\Lucas\FSD training\C# Projects\Section_8_BubbleSearch\Section_8_BubbleSearch\bin\Debug\netcoreapp3.1\Section_8_BubbleSearch.pdb
+C:\Lucas\FSD training\C# Projects\Section_8_BubbleSearch\Section_8_BubbleSearch\obj\Debug\netcoreapp3.1\Section_8_BubbleSearch.csprojAssemblyReference.cache
+C:\Lucas\FSD training\C# Projects\Section_8_BubbleSearch\Section_8_BubbleSearch\obj\Debug\netcoreapp3.1\Section_8_BubbleSearch.AssemblyInfoInputs.cache
+C:\Lucas\FSD training\C# Projects\Section_8_BubbleSearch\Section_8_BubbleSearch\obj\Debug\netcoreapp3.1\Section_8_BubbleSearch.AssemblyInfo.cs
+C:\Lucas\FSD training\C# Projects\Section_8_BubbleSearch\Section_8_BubbleSearch\obj\Debug\netcoreapp3.1\Section_8_BubbleSearch.csproj.CoreCompileInputs.cache
+C:\Lucas\FSD training\C# Projects\Section_8_BubbleSearch\Section_8_BubbleSearch\obj\Debug\netcoreapp3.1\Section_8_BubbleSearch.dll
+C:\Lucas\FSD training\C# Projects\Section_8_BubbleSearch\Section_8_BubbleSearch\obj\Debug\netcoreapp3.1\Section_8_BubbleSearch.pdb
+C:\Lucas\FSD training\C# Projects\Section_8_BubbleSearch\Section_8_BubbleSearch\obj\Debug\netcoreapp3.1\Section_8_BubbleSearch.genruntimeconfig.cache

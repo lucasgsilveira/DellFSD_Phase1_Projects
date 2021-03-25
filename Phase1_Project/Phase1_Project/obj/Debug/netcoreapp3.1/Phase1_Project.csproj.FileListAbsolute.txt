@@ -1,0 +1,13 @@
+C:\Lucas\FSD training\C# Projects\Phase1_Project\Phase1_Project\bin\Debug\netcoreapp3.1\Phase1_Project.exe
+C:\Lucas\FSD training\C# Projects\Phase1_Project\Phase1_Project\bin\Debug\netcoreapp3.1\Phase1_Project.deps.json
+C:\Lucas\FSD training\C# Projects\Phase1_Project\Phase1_Project\bin\Debug\netcoreapp3.1\Phase1_Project.runtimeconfig.json
+C:\Lucas\FSD training\C# Projects\Phase1_Project\Phase1_Project\bin\Debug\netcoreapp3.1\Phase1_Project.runtimeconfig.dev.json
+C:\Lucas\FSD training\C# Projects\Phase1_Project\Phase1_Project\bin\Debug\netcoreapp3.1\Phase1_Project.dll
+C:\Lucas\FSD training\C# Projects\Phase1_Project\Phase1_Project\bin\Debug\netcoreapp3.1\Phase1_Project.pdb
+C:\Lucas\FSD training\C# Projects\Phase1_Project\Phase1_Project\obj\Debug\netcoreapp3.1\Phase1_Project.csprojAssemblyReference.cache
+C:\Lucas\FSD training\C# Projects\Phase1_Project\Phase1_Project\obj\Debug\netcoreapp3.1\Phase1_Project.AssemblyInfoInputs.cache
+C:\Lucas\FSD training\C# Projects\Phase1_Project\Phase1_Project\obj\Debug\netcoreapp3.1\Phase1_Project.AssemblyInfo.cs
+C:\Lucas\FSD training\C# Projects\Phase1_Project\Phase1_Project\obj\Debug\netcoreapp3.1\Phase1_Project.csproj.CoreCompileInputs.cache
+C:\Lucas\FSD training\C# Projects\Phase1_Project\Phase1_Project\obj\Debug\netcoreapp3.1\Phase1_Project.dll
+C:\Lucas\FSD training\C# Projects\Phase1_Project\Phase1_Project\obj\Debug\netcoreapp3.1\Phase1_Project.pdb
+C:\Lucas\FSD training\C# Projects\Phase1_Project\Phase1_Project\obj\Debug\netcoreapp3.1\Phase1_Project.genruntimeconfig.cache

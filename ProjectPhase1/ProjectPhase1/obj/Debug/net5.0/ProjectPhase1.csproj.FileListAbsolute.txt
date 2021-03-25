@@ -1,0 +1,17 @@
+C:\Lucas\FSD training\C# Projects\ProjectPhase1\ProjectPhase1\obj\Debug\net5.0\ProjectPhase1.csprojAssemblyReference.cache
+C:\Lucas\FSD training\C# Projects\ProjectPhase1\ProjectPhase1\obj\Debug\net5.0\ProjectPhase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lucas\FSD training\C# Projects\ProjectPhase1\ProjectPhase1\obj\Debug\net5.0\ProjectPhase1.AssemblyInfoInputs.cache
+C:\Lucas\FSD training\C# Projects\ProjectPhase1\ProjectPhase1\obj\Debug\net5.0\ProjectPhase1.AssemblyInfo.cs
+C:\Lucas\FSD training\C# Projects\ProjectPhase1\ProjectPhase1\obj\Debug\net5.0\ProjectPhase1.csproj.CoreCompileInputs.cache
+C:\Lucas\FSD training\C# Projects\ProjectPhase1\ProjectPhase1\bin\Debug\net5.0\ProjectPhase1.exe
+C:\Lucas\FSD training\C# Projects\ProjectPhase1\ProjectPhase1\bin\Debug\net5.0\teachers.txt
+C:\Lucas\FSD training\C# Projects\ProjectPhase1\ProjectPhase1\bin\Debug\net5.0\ProjectPhase1.deps.json
+C:\Lucas\FSD training\C# Projects\ProjectPhase1\ProjectPhase1\bin\Debug\net5.0\ProjectPhase1.runtimeconfig.json
+C:\Lucas\FSD training\C# Projects\ProjectPhase1\ProjectPhase1\bin\Debug\net5.0\ProjectPhase1.runtimeconfig.dev.json
+C:\Lucas\FSD training\C# Projects\ProjectPhase1\ProjectPhase1\bin\Debug\net5.0\ProjectPhase1.dll
+C:\Lucas\FSD training\C# Projects\ProjectPhase1\ProjectPhase1\bin\Debug\net5.0\ref\ProjectPhase1.dll
+C:\Lucas\FSD training\C# Projects\ProjectPhase1\ProjectPhase1\bin\Debug\net5.0\ProjectPhase1.pdb
+C:\Lucas\FSD training\C# Projects\ProjectPhase1\ProjectPhase1\obj\Debug\net5.0\ProjectPhase1.dll
+C:\Lucas\FSD training\C# Projects\ProjectPhase1\ProjectPhase1\obj\Debug\net5.0\ref\ProjectPhase1.dll
+C:\Lucas\FSD training\C# Projects\ProjectPhase1\ProjectPhase1\obj\Debug\net5.0\ProjectPhase1.pdb
+C:\Lucas\FSD training\C# Projects\ProjectPhase1\ProjectPhase1\obj\Debug\net5.0\ProjectPhase1.genruntimeconfig.cache

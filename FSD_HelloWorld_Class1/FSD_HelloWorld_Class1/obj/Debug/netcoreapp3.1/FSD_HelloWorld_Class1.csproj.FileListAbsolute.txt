@@ -1,0 +1,13 @@
+C:\Lucas\FSD training\C# Projects\FSD_HelloWorld_Class1\FSD_HelloWorld_Class1\bin\Debug\netcoreapp3.1\FSD_HelloWorld_Class1.exe
+C:\Lucas\FSD training\C# Projects\FSD_HelloWorld_Class1\FSD_HelloWorld_Class1\bin\Debug\netcoreapp3.1\FSD_HelloWorld_Class1.deps.json
+C:\Lucas\FSD training\C# Projects\FSD_HelloWorld_Class1\FSD_HelloWorld_Class1\bin\Debug\netcoreapp3.1\FSD_HelloWorld_Class1.runtimeconfig.json
+C:\Lucas\FSD training\C# Projects\FSD_HelloWorld_Class1\FSD_HelloWorld_Class1\bin\Debug\netcoreapp3.1\FSD_HelloWorld_Class1.runtimeconfig.dev.json
+C:\Lucas\FSD training\C# Projects\FSD_HelloWorld_Class1\FSD_HelloWorld_Class1\bin\Debug\netcoreapp3.1\FSD_HelloWorld_Class1.dll
+C:\Lucas\FSD training\C# Projects\FSD_HelloWorld_Class1\FSD_HelloWorld_Class1\bin\Debug\netcoreapp3.1\FSD_HelloWorld_Class1.pdb
+C:\Lucas\FSD training\C# Projects\FSD_HelloWorld_Class1\FSD_HelloWorld_Class1\obj\Debug\netcoreapp3.1\FSD_HelloWorld_Class1.csprojAssemblyReference.cache
+C:\Lucas\FSD training\C# Projects\FSD_HelloWorld_Class1\FSD_HelloWorld_Class1\obj\Debug\netcoreapp3.1\FSD_HelloWorld_Class1.AssemblyInfoInputs.cache
+C:\Lucas\FSD training\C# Projects\FSD_HelloWorld_Class1\FSD_HelloWorld_Class1\obj\Debug\netcoreapp3.1\FSD_HelloWorld_Class1.AssemblyInfo.cs
+C:\Lucas\FSD training\C# Projects\FSD_HelloWorld_Class1\FSD_HelloWorld_Class1\obj\Debug\netcoreapp3.1\FSD_HelloWorld_Class1.csproj.CoreCompileInputs.cache
+C:\Lucas\FSD training\C# Projects\FSD_HelloWorld_Class1\FSD_HelloWorld_Class1\obj\Debug\netcoreapp3.1\FSD_HelloWorld_Class1.dll
+C:\Lucas\FSD training\C# Projects\FSD_HelloWorld_Class1\FSD_HelloWorld_Class1\obj\Debug\netcoreapp3.1\FSD_HelloWorld_Class1.pdb
+C:\Lucas\FSD training\C# Projects\FSD_HelloWorld_Class1\FSD_HelloWorld_Class1\obj\Debug\netcoreapp3.1\FSD_HelloWorld_Class1.genruntimeconfig.cache
